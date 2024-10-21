@@ -34,9 +34,8 @@ Example:
 -- John Doe --
 
 I enjoy coding and learning new technologies.
-Stage and commit the changes:
 
-- Commit and push the changes to the new branch. (Hint: Use `git add`, `git commit`, and `git push` command).
+- Stage, commit and push the changes to the new branch. (Hint: Use `git add`, `git commit`, and `git push` command).
 
 ## Task 4: Create a Pull Request (PR)
 Now that your changes are in GitHub, create a pull request (PR) to merge your branch into dev.
